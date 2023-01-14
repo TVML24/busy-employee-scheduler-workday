@@ -29,7 +29,7 @@ Screenshot:
 
 ## Deployment
 
-https://tvml24.github.io/unique-personal-algorithmic-password-generator/
+https://tvml24.github.io/busy-employee-scheduler-workday/
 
 ## Credits
 
